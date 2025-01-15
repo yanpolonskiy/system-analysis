@@ -1,2 +1,0 @@
-# system-analysis
-ШСП
